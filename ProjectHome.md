@@ -1,0 +1,1 @@
+Trata-se de uma aplicação que se comunica via rede.
